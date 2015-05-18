@@ -62,8 +62,8 @@ end
 
 options = [
   'Backup DNS records',
-  'Restore DNS records',
-  'Copy DNS records from another domain',
+  'Restore DNS records from a previous backup',
+  'Copy DNS records from another cloudflare domain',
   'Delete all DNS records',
   'Add Google Apps DNS'
 ]
