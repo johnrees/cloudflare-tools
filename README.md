@@ -1,3 +1,5 @@
+`Note: this is incomplete, it doesn't do anything useful yet!`
+
 # cloudflare-tools
 
 Simple set of command line utilities to quickly manage tasks that would otherwise take a long time using the GUI.
